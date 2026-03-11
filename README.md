@@ -31,3 +31,8 @@ First release, still testing
 - Added text in the main menu (disabled by default)
 - Fixed the systems selection grid menu
 - Selected text in list mode is now dark for better contrast
+
+### v0.9.2
+- Changed config.json text color for all elements
+- Changed main font to support more symbols
+- Swapped system icons for smaller ones
