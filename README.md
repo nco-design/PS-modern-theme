@@ -8,7 +8,7 @@ _Licence_ : CC BY | Please credit me if you use this theme or its content as par
 ## Description
 
 This theme was designed with the Trimui Smart Pro S in mind.<br>
-Most of the icons come from [Google Font](https://font.google.com/icons).<br>
+Most of the icons come from [Google Font](https://fonts.google.com/icons).<br>
 Other icons were drawn by me, taking inspiration from Playsation icons (Vita and PSP).
 
 ## How to install
@@ -36,3 +36,6 @@ First release, still testing
 - Changed config.json text color for all elements
 - Changed main font to support more symbols
 - Swapped system icons for smaller ones
+
+### v0.9.3
+- Patched the font file to add missing keyboard UI symbols.
