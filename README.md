@@ -7,7 +7,7 @@ _Licence_ : CC BY | Please credit me if you use this theme or its content as par
 
 ## Description
 
-This theme was designed with the Trimui Smart Pro S in mind.<br>
+This theme was designed with the Trimui Smart Pro S in mind. It should work on other trimUI devices and devices running SpruceOS<br>
 Most of the icons come from [Google Font](https://fonts.google.com/icons).<br>
 Other icons were drawn by me, taking inspiration from Playsation icons (Vita and PSP).
 
