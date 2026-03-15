@@ -17,8 +17,6 @@ Other icons were drawn by me, taking inspiration from PlayStation icons (Vita an
 
 ## Variants
 
-## Variants
-
 | Dark-cold | Light-grey | Light-white |
 |:---------:|:----------:|:-----------:|
 | This is the original color palette for this theme. Dark theme with good contrast. | Same icons, but with a retro look. This palette is inspired by the classic PS1 grey. | Same icons, but brighter. Designed for white handhelds. |
