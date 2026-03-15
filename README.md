@@ -12,7 +12,7 @@ _Licence_ : CC BY | Please credit me if you use this theme or its content as par
 ## Description
 
 This theme was designed with the Trimui Smart Pro S in mind. It should work on other trimUI devices and devices running SpruceOS<br>
-Most of the icons come from [Google Font](https://fonts.google.com/icons)
+Most of the icons come from [Google Fonts](https://fonts.google.com/icons).
 Other icons were drawn by me, taking inspiration from PlayStation icons (Vita and PSP).
 
 ## Variants
