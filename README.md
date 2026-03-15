@@ -17,17 +17,19 @@ Other icons were drawn by me, taking inspiration from PlayStation icons (Vita an
 
 ## Variants
 
+## Variants
+
 | Dark-cold | Light-grey | Light-white |
-|-----------|------------|-------------|
+|:---------:|:----------:|:-----------:|
 | This is the original color palette for this theme. Dark theme with good contrast. | Same icons, but with a retro look. This palette is inspired by the classic PS1 grey. | Same icons, but brighter. Designed for white handhelds. |
-| <img src="src/preview-dark-cold.png" width="260" align="center"> | <img src="src/preview-light-grey.png" width="260" align="center"> | <img src="src/preview-light.png" width="260" align="center"> |
+| <p align="center"><img src="src/preview-dark-cold.png" width="260"></p> | <p align="center"><img src="src/preview-light-grey.png" width="260"></p> | <p align="center"><img src="src/preview-light.png" width="260"></p> |
 | [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.0.0/PS-modern-dark-cold-1.0.0.zip) | **Coming soon** | **Coming soon** |
 
 ## Boot logos
 
 | PS1 Classic |
-|-------------|
-| <img src="src/PS1-boot.png" width="320" align="center"> <img src="src/PS1-boot-dark.png" width="320" align="center"> |
+|:-----------:|
+| <p align="center"><img src="src/PS1-boot.png" width="320"> <img src="src/PS1-boot-dark.png" width="320"></p> |
 | [Download](https://github.com/nco-design/PS-modern-theme/releases/download/bootlogo/PS1-boot.zip) |
 
 ## How to install
