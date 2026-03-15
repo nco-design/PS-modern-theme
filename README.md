@@ -6,30 +6,30 @@
 _Author_ : Nicolas C | Nico-Sylvestre <br>
 _Licence_ : CC BY | Please credit me if you use this theme or its content as part of your work.<br>
 
+<img src="src/preview-dark-cold.png" width="640"> <br>
+
 ## Description
 
 This theme was designed with the Trimui Smart Pro S in mind. It should work on other trimUI devices and devices running SpruceOS<br>
-Most of the icons come from [Google Font](https://fonts.google.com/icons).<br>
-Other icons were drawn by me, taking inspiration from Playsation icons (Vita and PSP).
+Most of the icons come from [Google Font](https://fonts.google.com/icons)
+Other icons were drawn by me, taking inspiration from PlayStation icons (Vita and PSP).
 
 ## Variants
 
 ### Dark-cold
-This is the original color palette for this theme. Dark theme with good contrast. <br>
+This is the original color palette for this theme. Dark theme with good contrast.
 <img src="src/preview-dark-cold.png" width="320"> <br>
 [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.0.0/PS-modern-dark-cold-1.0.0.zip)
 
 ### Light-grey
-Same icons, but with a retro look. This palette is inspired by the classic PS1 grey. <br>
-This is the original color palette for this theme. Dark theme with good contrast. <br>
+Same icons, but with a retro look. This palette is inspired by the classic PS1 grey.
 <img src="src/preview-light-grey.png" width="320"> <br>
-*Coming soon*
+**Coming soon**
 
 ### Light-white
-Same icons, but brighter. Perfect if you own a white handheld.
-This is the original color palette for this theme. Dark theme with good contrast. <br>
+Same icons, but brighter. Designed for white handhelds.
 <img src="src/preview-light.png" width="320"> <br>
-*Coming soon*
+**Coming soon**
 
 ### Boot logos
 <img src="src/PS1-boot.png" width="320"> <img src="src/PS1-boot-dark.png" width="320"> <br>
