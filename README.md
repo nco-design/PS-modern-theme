@@ -1,3 +1,6 @@
+![GitHub release](https://img.shields.io/github/v/release/nco-design/PS-modern-theme)
+![License](https://img.shields.io/badge/license-CC--BY-blue)
+
 # PS-Modern
 
 _Author_ : Nicolas C | Nico-Sylvestre <br>
@@ -13,7 +16,7 @@ Other icons were drawn by me, taking inspiration from Playsation icons (Vita and
 
 ### Dark-cold
 This is the original color palette for this theme. Dark theme with good contrast. <br>
-<img src="src/preview-dark-cool.png" width="320"> <br>
+<img src="src/preview-dark-cold.png" width="320"> <br>
 [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.0.0/PS-modern-dark-cold-1.0.0.zip)
 
 ### Light-grey
