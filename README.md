@@ -28,21 +28,24 @@ This is the original color palette for this theme. Dark theme with good contrast
 ### Light-grey
 Same icons, but with a retro look. This palette is inspired by the classic PS1 grey.
 <p align="left">
- <img src="src/preview-light-grey.png" width="320"> <br> 
+ <img src="src/preview-light-grey.png" width="320">
 </p>
+
 **Coming soon**
 
 ### Light-white
 Same icons, but brighter. Designed for white handhelds.
 <p align="left">
-  <img src="src/preview-light.png" width="320"> <br>
+  <img src="src/preview-light.png" width="320">
 </p>
+
 **Coming soon**
 
 ### Boot logos
 <p align="left">
-  <img src="src/PS1-boot.png" width="320"> <img src="src/PS1-boot-dark.png" width="320"> <br>
+  <img src="src/PS1-boot.png" width="320"> <img src="src/PS1-boot-dark.png" width="320">
 </p>
+
 [Download](https://github.com/nco-design/PS-modern-theme/releases/download/bootlogo/PS1-boot.zip)
 
 ## How to install
