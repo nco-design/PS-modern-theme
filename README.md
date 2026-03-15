@@ -13,19 +13,19 @@ Other icons were drawn by me, taking inspiration from Playsation icons (Vita and
 
 ### Dark-cold
 This is the original color palette for this theme. Dark theme with good contrast. <br>
-![Dark Cold Preview](src/preview-dark-cold.png)
+![Dark Cold Preview](src/preview-dark-cold.png) <br>
 [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.0.0/PS-modern-dark-cold-1.0.0.zip)
 
 ### Light-grey
 Same icons, but with a retro look. This palette is inspired by the classic PS1 grey. <br>
 This is the original color palette for this theme. Dark theme with good contrast. <br>
-![Light grey Preview](src/preview-light-grey.png)
+![Light grey Preview](src/preview-light-grey.png) <br>
 *Coming soon*
 
 ### Light-white
 Same icons, but brighter. Perfect if you own a white handheld.
 This is the original color palette for this theme. Dark theme with good contrast. <br>
-![Light White Preview](src/preview-light.png)
+![Light White Preview](src/preview-light.png) <br>
 *Coming soon*
 
 ### Boot logos
