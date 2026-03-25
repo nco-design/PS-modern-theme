@@ -21,7 +21,7 @@ Other icons were drawn by me, taking inspiration from PlayStation icons (Vita an
 |:---------:|:----------:|:-----------:|
 | This is the original color palette for this theme. Dark theme with good contrast. | Same icons, but with a retro look. This palette is inspired by the classic PS1 grey. | Same icons, but brighter. Designed for white handhelds. |
 | <p align="center"><img src="src/preview-dark-cold.png" width="260"></p> | <p align="center"><img src="src/preview-light-grey.png" width="260"></p> | <p align="center"><img src="src/preview-light.png" width="260"></p> |
-| [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.0.0/PS-modern-dark-cold-1.0.0.zip) | **Coming soon** | **Coming soon** |
+| [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.0.0/PS-modern-dark-cold-1.0.0.zip) | [Download alpha](https://github.com/nco-design/PS-modern-theme/releases/download/v0.9.2/PS-modern-light-grey-0.9.2.zip) | [Dowmload alpha](https://github.com/nco-design/PS-modern-theme/releases/download/v0.9.7/PS-modern-2-light-white-0.9.7.zip) |
 
 ## Boot logos
 
