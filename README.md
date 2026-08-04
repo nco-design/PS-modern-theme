@@ -19,9 +19,9 @@ Other icons were drawn by me, taking inspiration from PlayStation icons (Vita an
 
 | Dark-cold | Light-grey | Light-white |
 |:---------:|:----------:|:-----------:|
-| This is the original color palette for this theme. Dark theme with good contrast. | Same icons, but with a retro look. This palette is inspired by the classic PS1 grey. | Same icons, but brighter. Designed for white handhelds. |
-| <p align="center"><img src="src/preview-dark-cold.png" width="260"></p> | <p align="center"><img src="src/preview-light-grey.png" width="260"></p> | <p align="center"><img src="src/preview-light.png" width="260"></p> |
-| [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.1/PS-modern-dark-cold-1.1.zip) | [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.1/PS-modern-2-light-grey-1.1.zip) | [Dowmload](https://github.com/nco-design/PS-modern-theme/releases/download/v1.1/PS-modern-light-white-1.1.zip) |
+| This is the original color palette for this theme. Dark theme with good contrast. | Same icons, but with a retro look. This palette is inspired by the classic PS1 grey. | Same icons, but brighter. Designed for white handhelds. Monochromatic app and emu icons. | Intense blue palette, similar to "playstation" blue. Monochromatic app and emu icons. |
+| <p align="center"><img src="src/preview-dark-cold.png" width="260"></p> | <p align="center"><img src="src/preview-light-grey.png" width="260"></p> | <p align="center"><img src="src/preview-light.png" width="260"></p> | <p align="center"><img src="src/preview-deep-blue.png" width="260"></p> |
+| [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.2/PS-modern-dark-cold-1.2.zip) | [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.2/PS-modern-2-light-grey-1.2.zip) | [Dowmload](https://github.com/nco-design/PS-modern-theme/releases/download/v1.2/PS-modern-light-white-1.2.zip) | [Download](https://github.com/nco-design/PS-modern-theme/releases/download/v1.2/PS-modern-deep-blue-1.2.zip) |
 
 ## Boot logos
 
